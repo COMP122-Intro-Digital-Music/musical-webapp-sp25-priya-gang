@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "kick_party_1",
+    "pitch": "A3",
+    "pattern": "1000"
+  },
+  {
+    "name": "hih_party_2",
+    "pitch": "F#4",
+    "pattern": "10"
+  },
+  {
+    "name": "wn_party_3",
+    "pitch": "D4",
+    "pattern": "100"
+  },
+  {
+    "name": "clap_party_4",
+    "pitch": "C4",
+    "pattern": "1"
+  }
+]
