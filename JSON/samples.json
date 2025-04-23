@@ -1,7 +1,7 @@
 [
   {
     "name": "what_lifes_about",
-    "file": "samples/_is_this_what_life_s_about__clipped_audiomass.mp3",
+    "file": "samples/is_this_what_life_s_about__clipped_audiomass.mp3",
     "bpm": 120,
     "loop": "2m",
     "grain": 0.04,
@@ -9,7 +9,7 @@
   },
   {
     "name": "tag_youre_it",
-    "file": "samples/_tag_you're_it__clipped_audiomass.mp3",
+    "file": "samples/tag_you_re_it__clipped_audiomass.mp3",
     "bpm": 120,
     "loop": "2m",
     "grain": 0.04,
@@ -17,7 +17,7 @@
   },
   {
     "name": "grocery_shopping",
-    "file": "samples/_you_go_grocery_shopping_for_lunch__clipped_audiomass.mp3",
+    "file": "samples/you_go_grocery_shopping_for_lunch__clipped_audiomass.mp3",
     "bpm": 120,
     "loop": "2m",
     "grain": 0.04,
